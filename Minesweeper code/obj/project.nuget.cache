@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Y6AmCfWzCIZlWBprCsCrvojy+NLhrhGypqXXfS7U6/nSJ+Bb1Y5OX9l2TPjIRsMlf/y3o+ZPHL27cwESIGfNw==",
+  "success": true,
+  "projectFilePath": "/Users/laurakushnir/Desktop/Minesweeper/Minesweeper code/Minesweeper.csproj",
+  "expectedPackageFiles": [
+    "/Users/laurakushnir/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/laurakushnir/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
